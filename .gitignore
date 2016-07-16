@@ -3,9 +3,14 @@
 *.llb
 
 # Executables
+build
 *.exe
 *.vip
+*.vipc
 
 # Metadata
 *.aliases
 *.lvlps
+
+# Database files
+data
