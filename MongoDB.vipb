@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-10 02:05:12" Modified_Date="2016-07-16 16:44:34" Creator="schim" Comments="" ID="0ed229f3a909030f508cd8a19abf8455">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-10 02:05:12" Modified_Date="2016-07-18 20:42:04" Creator="schim" Comments="" ID="2ef5f04aaa73e32770d5466cb6787e57">
   <Library_General_Settings>
     <Package_File_Name>LHF_lib_MongoDB</Package_File_Name>
-    <Library_Version>1.1.0.6</Library_Version>
+    <Library_Version>1.1.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>build</Library_Output_Folder>
@@ -145,9 +145,6 @@ No more using JSON. If you want JSON, use variant to json. Maybe will be added a
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Exclusions>
-        <Path>data</Path>
-      </Exclusions>
       <Exclusions>
         <Path>test</Path>
       </Exclusions>
@@ -315,7 +312,7 @@ No more using JSON. If you want JSON, use variant to json. Maybe will be added a
         <Path>example</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F4C999B2D850EF119CE56C30898ECDA0</GUID>
+      <GUID>3A29B96898583A8C3608A21A4819C108</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -350,7 +347,7 @@ No more using JSON. If you want JSON, use variant to json. Maybe will be added a
         <Path>example\LHF.SimpleAuth.User</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AA8EF110BD09C88BE6D982C5C2620AD7</GUID>
+      <GUID>5731C848F95D61EDCA33F81B0594A65B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -399,7 +396,7 @@ No more using JSON. If you want JSON, use variant to json. Maybe will be added a
         <Path>example\LHF.SimpleAuth.User\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>822426A48CEC729D506FA0C9CE116C7F</GUID>
+      <GUID>AF2833A34F52953D5DC520500EF7829C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -476,7 +473,7 @@ No more using JSON. If you want JSON, use variant to json. Maybe will be added a
         <Path>src\Client\LHF.DB.Mongo.Client.GetDatabasesName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CBD0842FD056255E7535DE651872DDB8</GUID>
+      <GUID>D8E20CD7F37B52A67BF6CA4A580B21DD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -651,7 +648,7 @@ No more using JSON. If you want JSON, use variant to json. Maybe will be added a
         <Path>src\Collection\LHF.DB.Mongo.Collection.Aggregate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>33F6C0A7A7C90CC129835A2481A2FFA7</GUID>
+      <GUID>AFBA92DEEB8FEE63B57672B7AD506657</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -700,7 +697,7 @@ No more using JSON. If you want JSON, use variant to json. Maybe will be added a
         <Path>src\Daemon\LHF.DB.Mongo.Daemon.Start.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D60E6EBA852ABC18A9768ED6CCEB4B42</GUID>
+      <GUID>8202825C70545892662D1562C135E983</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -791,7 +788,7 @@ No more using JSON. If you want JSON, use variant to json. Maybe will be added a
         <Path>src\Util\LHF.DB.Mongo.Util.BuildConnectionString.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>57035E7D16BB028977BC1CC86C6D5FCD</GUID>
+      <GUID>FF8E4565857A6FB29BC887AA6407A15B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
