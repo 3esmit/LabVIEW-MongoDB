@@ -65,6 +65,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
+			<Item Name="LHF.DB.Mongo.Collection.JSON.Core.Aggregate.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.JSON.Core.Aggregate.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,3!!!!%Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%E!Q`````QB5&lt;V.U=GFO:Q!!(%"!!!(`````!!1/3F.04C"%&lt;W.V&lt;76O&gt;(-!!(A!=!!9!!!!!1!!!'J.&lt;WZH&lt;U2#,E*T&lt;WYO1H.P&lt;E2P9X6N:7ZU,#".&lt;WZH&lt;U2#,E*T&lt;WYM)&amp;:F=H.J&lt;WY^-#YQ,D!O-#QA1X6M&gt;(6S:4VO:86U=G&amp;M,#"1&gt;7*M;7.,:8F5&lt;WNF&lt;DVG.DAW.T-R9W:C/7.D-4!T!"R!1!!"`````Q!'$G^Q:8*B&gt;'FP&lt;H-A&lt;X6U!!!S1(!!(A!!&amp;B2-3%9O2%)O47^O:W]O&lt;(:D&lt;'&amp;T=Q!!%%R)2CZ%1CZ.&lt;WZH&lt;S"P&gt;81!!!1!!!!-1$$`````!V^J:!!71%!!!@````]!#AF@;71A18*S98E!%%!B#U6Y&gt;(*B9X1A8WFE!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%!Q`````QJ$&lt;WRM:7.U;7^O!!#'1(!!'!!!!!%!!!"K47^O:W^%1CZ#=W^O,E*T&lt;WZ%&lt;W.V&lt;76O&gt;#QA47^O:W^%1CZ#=W^O,#"7:8*T;7^O04!O-#YQ,D!M)%.V&lt;(2V=G5^&lt;G6V&gt;(*B&lt;#QA5(6C&lt;'FD3W6Z6'^L:7Y^:D9Y.D=T-7.G9DFD9T%Q-QVO:8=A=G6G:8*F&lt;G.F!"B!1!!"`````Q!0#G^Q:8*B&gt;'FP&lt;H-!!$"!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!04%B',E2#,EVP&lt;G&gt;P)'FO!'%!]!!-!!-!"1!(!!A!#1!,!!Q!#1!.!!Y!%!!2!Q!!?!!!$1A!!!E!!!!.#A!!$1M!!!!!!!!*!!!!#!!!!!!!!!!+!!!"#A!!!1I!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!")!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+			</Item>
 			<Item Name="LHF.DB.Mongo.Collection.Core.Aggregate.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.Core.Aggregate.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,3!!!!&amp;!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E"4#&amp;2P5X2S;7ZH!!!71%!!!@````]!"!F%&lt;W.V&lt;76O&gt;(-!?!"Q!"A!!!!"!!!!;EVP&lt;G&gt;P2%)O1H.P&lt;CZ#=W^O2'^D&gt;7VF&lt;H1M)%VP&lt;G&gt;P2%)O1H.P&lt;CQA6G6S=WFP&lt;DUQ,D!O-#YQ,#"$&gt;7RU&gt;8*F07ZF&gt;82S97QM)&amp;"V9GRJ9UNF?62P;W6O079W/$9X-T&amp;D:G)Z9W-R-$-!(%"!!!(`````!!9/&lt;X"F=G&amp;U;7^O=S"P&gt;81!!$*!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!14%B',E2#,EVP&lt;G&gt;P)'^V&gt;!!!"!!!!!R!-0````]$8WFE!":!1!!"`````Q!+#6^J:#""=H*B?1!11#%,28BU=G&amp;D&gt;#"@;71!#E"4"(2Z='5!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%!Q`````QJ$&lt;WRM:7.U;7^O!!#'1(!!'!!!!!%!!!"K47^O:W^%1CZ#=W^O,E*T&lt;WZ%&lt;W.V&lt;76O&gt;#QA47^O:W^%1CZ#=W^O,#"7:8*T;7^O04!O-#YQ,D!M)%.V&lt;(2V=G5^&lt;G6V&gt;(*B&lt;#QA5(6C&lt;'FD3W6Z6'^L:7Y^:D9Y.D=T-7.G9DFD9T%Q-QVO:8=A=G6G:8*F&lt;G.F!"B!1!!"`````Q!1#G^Q:8*B&gt;'FP&lt;H-!!$"!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!04%B',E2#,EVP&lt;G&gt;P)'FO!'%!]!!-!!-!"1!(!!A!#1!,!!Q!$1!/!!]!%1!3!Q!!?!!!$1A!!!E!!!!.#A!!$1M!!!!!!!!*!!!!#!!!!!A!!!!+!!!"#A!!!1I!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!"-!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -112,7 +121,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="LHF.DB.Mongo.Util.JSONtoBSON.vi" Type="VI" URL="../Util/LHF.DB.Mongo.Util.JSONtoBSON.vi">
+			<Item Name="LHF.DB.Mongo.Util.JSONtoBSONValue.vi" Type="VI" URL="../Util/LHF.DB.Mongo.Util.JSONtoBSONValue.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;/!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!(^!=!!9!!!!!1!!!'&gt;.&lt;WZH&lt;U2#,E*T&lt;WYO1H.P&lt;F:B&lt;(6F,#".&lt;WZH&lt;U2#,E*T&lt;WYM)&amp;:F=H.J&lt;WY^-#YQ,D!O-#QA1X6M&gt;(6S:4VO:86U=G&amp;M,#"1&gt;7*M;7.,:8F5&lt;WNF&lt;DVG.DAW.T-R9W:C/7.D-4!T#5*T&lt;WZ797RV:1!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````]*3F.04C"E982B!&amp;1!]!!-!!-!"!!&amp;!!1!"!!%!!1!"!!'!!1!"Q!%!Q!!?!!!$1A!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!1I!!!!!!!!!!!%!#!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -176,13 +185,13 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
 			</Item>
 			<Item Name="LHF.DB.Mongo.Util.VariantToFields.vi" Type="VI" URL="../Util/LHF.DB.Mongo.Util.VariantToFields.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'(!!!!#1!51&amp;-0=(*P;G6D&gt;'FP&lt;C"U?8"F!!1!!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!#!!-!"".F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!):!=!!9!!!!!1!!!'J.&lt;WZH&lt;U2#,E*T&lt;WYO1H.P&lt;E2P9X6N:7ZU,#".&lt;WZH&lt;U2#,E*T&lt;WYM)&amp;:F=H.J&lt;WY^-#YQ,D!O-#QA1X6M&gt;(6S:4VO:86U=G&amp;M,#"1&gt;7*M;7.,:8F5&lt;WNF&lt;DVG.DAW.T-R9W:C/7.D-4!T$%*T&lt;WZ%&lt;W.V&lt;76O&gt;!!!&amp;E"1!!-!!A!$!!1*:8*S&lt;X)A&lt;X6U!)1!]!!5!!!!!1!"!!%!!1!&amp;!!%!!1!"!!%!!1!"!!%!!1!'!!%!!1!"!!%!"Q-!!2!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!."1!!!!%!#!!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'(!!!!#1!51&amp;-0=(*P;G6D&gt;'FP&lt;C"U?8"F!!1!!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!#!!-!"".F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!):!=!!9!!!!!1!!!'J.&lt;WZH&lt;U2#,E*T&lt;WYO1H.P&lt;E2P9X6N:7ZU,#".&lt;WZH&lt;U2#,E*T&lt;WYM)&amp;:F=H.J&lt;WY^-#YQ,D!O-#QA1X6M&gt;(6S:4VO:86U=G&amp;M,#"1&gt;7*M;7.,:8F5&lt;WNF&lt;DVG.DAW.T-R9W:C/7.D-4!T$%*T&lt;WZ%&lt;W.V&lt;76O&gt;!!!&amp;E"1!!-!!A!$!!1*:8*S&lt;X)A&lt;X6U!)1!]!!5!!!!!1!"!!%!!1!&amp;!!%!!1!"!!%!!1!"!!%!!1!'!!%!!1!"!!%!"Q-!!2!!!!I!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!."1!!!!%!#!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
 		</Item>
 		<Item Name="Bson" Type="Folder">
@@ -305,6 +314,44 @@
 			</Item>
 		</Item>
 		<Item Name="Collection" Type="Folder">
+			<Item Name="JSON" Type="Folder">
+				<Item Name="LHF.DB.Mongo.Collection.JSON.Find.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.JSON.Find.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'O!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%E!Q`````QB5&lt;V.U=GFO:Q!!&amp;E"!!!(`````!!1*4W*K:7.U352T!":!-0````].3F.04C"E&lt;W.V&lt;76O&gt;!!71%!!!@````]!"AF%&lt;W.V&lt;76O&gt;(-!-E"Q!"Y!!"954%B',E2#,EVP&lt;G&gt;P,GRW9WRB=X-!!""-3%9O2%)O47^O:W]A&lt;X6U!!!%!!!!%%!B#U6Y&gt;(*B9X1A8WFE!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#E"4"8&amp;V:8*Z!"2!-0````]+1W^M&lt;'6D&gt;'FP&lt;A!!-%"Q!"Y!!"954%B',E2#,EVP&lt;G&gt;P,GRW9WRB=X-!!!^-3%9O2%)O47^O:W]A;7Y!91$Q!!Q!!Q!&amp;!!=!#!!*!!E!#A!*!!M!$!!.!!Y$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!)!!!!!!!!!!I!!!!3!!!"%A!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$Q!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
+				</Item>
+				<Item Name="LHF.DB.Mongo.Collection.JSON.FindOneById.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.JSON.FindOneById.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;T!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!Q`````Q.@;71!&amp;E!Q`````QV+5U^/)%2P9X6N:7ZU!$*!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!14%B',E2#,EVP&lt;G&gt;P)'^V&gt;!!!"!!!!"2!)1^&amp;?(2S97.U)&amp;^J:#!I6#E!#E"4"(2Z='5!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%!Q`````QJ$&lt;WRM:7.U;7^O!!!Q1(!!(A!!&amp;B2-3%9O2%)O47^O:W]O&lt;(:D&lt;'&amp;T=Q!!$UR)2CZ%1CZ.&lt;WZH&lt;S"J&lt;A"5!0!!$!!$!!1!"1!'!!=!"Q!)!!E!#A!%!!M!$!-!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!A!!!!1!!!!#A!!!1I!!!%3!!!!E!!!!!!"!!U!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="LHF.DB.Mongo.Collection.JSON.Insert.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.JSON.Insert.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!Q`````Q.@;71!#%!B!E^L!!!S1(!!(A!!&amp;B2-3%9O2%)O47^O:W]O&lt;(:D&lt;'&amp;T=Q!!%%R)2CZ%1CZ.&lt;WZH&lt;S"P&gt;81!!!1!!!!51#%028BU=G&amp;D&gt;#"@;71A+&amp;1J!":!-0````].3F.04C"E&lt;W.V&lt;76O&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"2!-0````]+1W^M&lt;'6D&gt;'FP&lt;A!!,E"Q!"Y!!"954%B',E2#,EVP&lt;G&gt;P,GRW9WRB=X-!!!R-3%9O2%)O47^O:W]!!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!(!!A!#1!+!!1!#Q!-!Q!!?!!!$1A!!!E!!!!*!!!!D1M!!!!!!!!!!!!!#!!!!2)!!!!+!!!"!A!!!2)!!!#1!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="LHF.DB.Mongo.Collection.JSON.Aggregate.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.JSON.Aggregate.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'X!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!Q`````Q.@;71!&amp;E"!!!(`````!!1*8WFE)%&amp;S=G&amp;Z!"*!-0````])6'^4&gt;(*J&lt;G=!!":!1!!"`````Q!'#52P9X6N:7ZU=Q!S1(!!(A!!&amp;B2-3%9O2%)O47^O:W]O&lt;(:D&lt;'&amp;T=Q!!%%R)2CZ%1CZ.&lt;WZH&lt;S"P&gt;81!!!1!!!!51#%028BU=G&amp;D&gt;#"@;71A+&amp;1J!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$E"4#&amp;2P5X2S;7ZH!!!91%!!!@````]!$!J0='6S982J&lt;WZT!!!51$$`````#E.P&lt;'RF9X2J&lt;WY!!$"!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!04%B',E2#,EVP&lt;G&gt;P)'FO!&amp;1!]!!-!!-!"1!(!!A!#1!*!!I!#1!,!!U!$A!0!Q!!?!!!$1A!!!E!!!!*!!!!D1M!!!!!!!!!!!!!#!!!!!!!!!!+!!!#%A!!!2)!!!#1!!!!!!%!%!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+				</Item>
+			</Item>
 			<Item Name="LHF.DB.Mongo.Collection.CreateCollection.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.CreateCollection.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%X!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!14%B',E2#,EVP&lt;G&gt;P)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!91$$`````$G.P&lt;'RF9X2J&lt;WZ/97VF!!!Q1(!!(A!!&amp;B2-3%9O2%)O47^O:W]O&lt;(:D&lt;'&amp;T=Q!!$UR)2CZ%1CZ.&lt;WZH&lt;S"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!%3!!!!E!!!!!!"!!E!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -313,6 +360,15 @@
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+			</Item>
+			<Item Name="LHF.DB.Mongo.Collection.Aggregate.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.Aggregate.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'V!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!Q`````Q.@;71!&amp;E"!!!(`````!!1*8WFE)%&amp;S=G&amp;Z!!Z!5QB5&lt;V.U=GFO:Q!!&amp;E"!!!(`````!!9*2'^D&gt;7VF&lt;H2T!$*!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!14%B',E2#,EVP&lt;G&gt;P)'^V&gt;!!!"!!!!"2!)1^&amp;?(2S97.U)&amp;^J:#!I6#E!%%"4#X*F&gt;(6S&lt;C"U?8"F!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'%"!!!(`````!!9+4X"F=G&amp;U;7^O=Q!!&amp;%!Q`````QJ$&lt;WRM:7.U;7^O!!!Q1(!!(A!!&amp;B2-3%9O2%)O47^O:W]O&lt;(:D&lt;'&amp;T=Q!!$UR)2CZ%1CZ.&lt;WZH&lt;S"J&lt;A"5!0!!$!!$!!5!"Q!)!!E!#1!+!!M!$!!.!!Y!$Q-!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!A!!!!1!!!!#A!!!B)!!!%3!!!!E!!!!!!"!"!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 			</Item>
 			<Item Name="LHF.DB.Mongo.Collection.CreateIndex.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.CreateIndex.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&amp;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!#%!B!E^L!!!%!!!!-E"Q!"Y!!"954%B',E2#,EVP&lt;G&gt;P,GRW9WRB=X-!!""-3%9O2%)O47^O:W]A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!J!5Q6W97RV:1!51$$`````#E.P&lt;'RF9X2J&lt;WY!!$"!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!04%B',E2#,EVP&lt;G&gt;P)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"1!(!!A!#1!+!Q!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!#A!!!1I!!!#1!!!!!!%!#Q!!!!!</Property>
@@ -352,15 +408,6 @@
 			</Item>
 			<Item Name="LHF.DB.Mongo.Collection.Update.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.Update.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;I!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;U!%!"&amp;%&lt;W.V&lt;76O&gt;(.":G:F9X2F:!!)1#%#4WM!!$*!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!14%B',E2#,EVP&lt;G&gt;P)'^V&gt;!!!"!!!!!J!5Q62&gt;76S?1!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!R!5Q:6='2B&gt;'5!!"2!-0````]+1W^M&lt;'6D&gt;'FP&lt;A!!-%"Q!"Y!!"954%B',E2#,EVP&lt;G&gt;P,GRW9WRB=X-!!!^-3%9O2%)O47^O:W]A;7Y!6!$Q!!Q!!Q!%!!5!"A!(!!=!#!!(!!E!#A!,!!Q$!!"Y!!!.#!!!#1!!!!E!!!#.#Q!!!!!!!!!!!!!3!!!!!!!!!!I!!!!3!!!"#A!!!*!!!!!!!1!.!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
-			</Item>
-			<Item Name="LHF.DB.Mongo.Collection.Aggregate.vi" Type="VI" URL="../Collection/LHF.DB.Mongo.Collection.Aggregate.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'V!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!Q`````Q.@;71!&amp;E"!!!(`````!!1*8WFE)%&amp;S=G&amp;Z!!Z!5QB5&lt;V.U=GFO:Q!!&amp;E"!!!(`````!!9*2'^D&gt;7VF&lt;H2T!$*!=!!?!!!7&amp;%R)2CZ%1CZ.&lt;WZH&lt;SZM&gt;G.M98.T!!!14%B',E2#,EVP&lt;G&gt;P)'^V&gt;!!!"!!!!"2!)1^&amp;?(2S97.U)&amp;^J:#!I6#E!%%"4#X*F&gt;(6S&lt;C"U?8"F!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'%"!!!(`````!!9+4X"F=G&amp;U;7^O=Q!!&amp;%!Q`````QJ$&lt;WRM:7.U;7^O!!!Q1(!!(A!!&amp;B2-3%9O2%)O47^O:W]O&lt;(:D&lt;'&amp;T=Q!!$UR)2CZ%1CZ.&lt;WZH&lt;S"J&lt;A"5!0!!$!!$!!5!"Q!)!!E!#1!+!!M!$!!.!!Y!$Q-!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!A!!!!1!!!!#A!!!B)!!!%3!!!!E!!!!!!"!"!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
